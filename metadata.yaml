@@ -1,0 +1,25 @@
+_repo: Mining-Laws-of-Ohio-1921_17449
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Ohio Department  of Industrial Relations
+    gutenberg_agent_id: '7393'
+    url: http://www.gutenberg.org/2009/agents/7393
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2006-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17449'
+language: en
+publication_note: 'Columbus, Ohio :  The F.J. Heer Printing Co.,  1921'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TN'
+- !lcsh 'Mining law -- Ohio'
+title: Mining Laws of Ohio, 1921
+url: http://www.gutenberg.org/ebooks/17449
